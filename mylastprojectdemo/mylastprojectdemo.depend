@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1678883988 source:e:\project\mylastprojectdemo\main.cpp
+	"admin.h"
+	"customer.h"
+
+1678883988 e:\project\mylastprojectdemo\admin.h
+	"user.h"
+	"product.h"
+
+1678881745 e:\project\mylastprojectdemo\user.h
+	<bits/stdc++.h>
+
+1678882094 e:\project\mylastprojectdemo\product.h
+	<bits/stdc++.h>
+	<unistd.h>
+
+1678884330 e:\project\mylastprojectdemo\customer.h
+	"user.h"
+	"order.h"
+
+1678884330 e:\project\mylastprojectdemo\order.h
+	"product.h"
+
+1678934096 source:c:\users\asus\onedrive\desktop\mylastprojectdemo\main.cpp
+	"admin.h"
+	"customer.h"
+
+1678905794 c:\users\asus\onedrive\desktop\mylastprojectdemo\admin.h
+	<conio.h>
+	"user.h"
+	"product.h"
+
+1678881745 c:\users\asus\onedrive\desktop\mylastprojectdemo\user.h
+	<bits/stdc++.h>
+
+1678934444 c:\users\asus\onedrive\desktop\mylastprojectdemo\product.h
+	<bits/stdc++.h>
+	<unistd.h>
+
+1679033061 c:\users\asus\onedrive\desktop\mylastprojectdemo\customer.h
+	"user.h"
+	"order.h"
+
+1678884330 c:\users\asus\onedrive\desktop\mylastprojectdemo\order.h
+	"product.h"
+
+1731513442 source:c:\users\user\onedrive\documents\mylastprojectdemo-20240920t134102z-001[1]\mylastprojectdemo\main.cpp
+	"admin.h"
+	"customer.h"
+
+1731513442 c:\users\user\onedrive\documents\mylastprojectdemo-20240920t134102z-001[1]\mylastprojectdemo\admin.h
+	<conio.h>
+	"user.h"
+	"product.h"
+
+1731513442 c:\users\user\onedrive\documents\mylastprojectdemo-20240920t134102z-001[1]\mylastprojectdemo\user.h
+	<bits/stdc++.h>
+
+1731513442 c:\users\user\onedrive\documents\mylastprojectdemo-20240920t134102z-001[1]\mylastprojectdemo\product.h
+	<bits/stdc++.h>
+	<unistd.h>
+
+1731513442 c:\users\user\onedrive\documents\mylastprojectdemo-20240920t134102z-001[1]\mylastprojectdemo\customer.h
+	"user.h"
+	"order.h"
+
+1731513442 c:\users\user\onedrive\documents\mylastprojectdemo-20240920t134102z-001[1]\mylastprojectdemo\order.h
+	"product.h"
+
